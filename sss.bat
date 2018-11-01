@@ -5,3 +5,5 @@ pause
 git push -u origin master
 pause
 pause
+pause
+pause
