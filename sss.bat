@@ -1,10 +1,7 @@
-echo "# testerOpe" >> README.md
-git init
-git add README.md
+git commit -m "first commit"
 pause
-git add *
+git remote add origin https://github.com/Monsterope/testerOpe.git
 pause
-git remote add origin
-pause
-https://github.com/Monsterope/testerOpe.git
 git push -u origin master
+pause
+pause
